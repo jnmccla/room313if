@@ -109,4 +109,107 @@ The man in the front row raises his hand almost immediately.
 
 "Felixe is fine," the man said. "We, as a species, have interest in the paranormal because we are desperate to explain the unexplainable. Since science will never be able to fully explain everything, paranormal explanations and intrigue will remain."
 
+The professor smiles broadly, more genuine than it seemed before. "As expected of our local fantasy author."
+
+You hear Brigid make a startled, "Oh!" You catch her eye and she signals that she'll explain after class. You think.  Really that hand wave could technically have meant several things. Nah, she'll definitely tell you after class.
+
+"However," Osbourne continues, "you did not take it all the way back to the source."
+
+Felixe, who had gone back to his writing, pauses, but doesn't look back up.
+
+Apparently the professor takes this as his signal to continue. "Why are we so obsessed with explaining the unexplainable?"
+
+"Natural human curiosity," Felixe said swiftly.
+
+Professor Osbourne made a tutting sound, but his smile remained. "A common error in thought. It is <i>fear</i> that drives us. Fear of the unknown. Fear of the strange. Fear of the other. We give those fears a name, an explanation, and sometimes even create wards to pretend we have some control over what we can't see or understand."
+
+Wards? That rings a bell to you, but you can't put your finger on why. You'll think about it later.
+
+Felixe snorts and begins writing in his notebook again.
+
+The professor's smile freezes in place and his eyes narrow. "You disagree?"
+
+Felixe sighs heavily and puts his pencil down with a deliberateness you've seen your teachers use when they're making a point of being done with whatever shennanigans you've been up to. He looks at the professor silently for a moment. "Yes," he says, then shrugs, "but it's your class, not mine."
+
+Is this... how people talked to teachers in college? Professor Osbourne seems content with the answer, but maybe that's only because Felixe is an adult.
+
+Well, <i>you're</i> an adult, too. But, like, a <i>real</i> adult. A published author, apparently.
+
+"I'm not scared of monsters," you say abruptly, barely realizing you had the thought before it left your mouth.
+
+Felixe glances back at you for a second, but Brigid and the other students turn to look between you and the professor expectantly.
+
+Osbourne's first smile is back, the one where it seems he's laughing at you. "Ms. Jones, yes? Would you care to elaborate?"
+
+* yes (serious answer)
+* yes (class clown answer)
+* no (dismissive)
+* no (sheepish)
+* cause a distraction
+TODO: Not sure I'll keep all of these options, but this is where we'll get a bit more variety in the next paragraph or two and later down the road than in previous choices. First real defining moment for how Jones will be played.
+
+- You can't read his expression at all this time, and it makes you uncomfortable. He breaks his gaze away and looks to the other students. "Anyone else have any insight? No? Then we'll move on."
+
+The rest of class was much less exciting than the first few minutes. Professor Osbourne just talked more about fear and superstition and how it affected humanity's view on the occult in different ways in different societies. He also said something about consistent categories of fears and the sort of myths and urban legends they produce, but by that point, you were half asleep, and really only caught that he'd be going more in depth in them throughout the semester, so you're sure it was nothing too important.
+TODO: Add switch between half asleep, doodling, other
+
+Finally, the end of class bell rings.
+
+You almost dash out the door, like you do for most of your classes, but you remember your looming appointment, and, well, it looks like Brigid is dawdling behind so you hang back with her.
+
+Brigid is standing a few feet behind Felixe's desk, tugging on her hair in her tell-tale nervous habit, and you notice he's still sitting there, writing, as though he didn't hear the bell or notice most of the other students rush out around him.
+
+Professor Osbourne notices this, too. "Did you have a question, Felixe?"
+
+Felixe doesn't answer for a few moments, still writing, then puts down his pencil and starts packing away his things into his messenger bag. "No, I was just finishing some thoughts."
+
+"Oh?"
+
+Felixe ignores the prompt and instead gestures to you and Brigid. "They might, though."
+
+The professor looks expectantly to the two of you, and you look expectantly at Brigid.
+
+Brigid glances between the three of you. "I-it's nothing. Uh, Jones? Did you have something?"
+
+* No 
+* Make something up to cover for Brigid
+
+- "Hey, wait, I know you," Felixe says before Osbourne can respond.
+
+You blink at him like a deer in headlights. Then you remember.
+
+* You stole an amulet for him
+* You "borrowed" a book for him
+* You made a deal to get a dagger for him
+
+- "Oh, yeah! The ward-thingy," you exclaim, happy to have the pieces click into place. "Has it been... working?" Not that you believed magic wards were real. Probably.
+
+Felixe snorts. "Not the way I think you mean, but it's been useful to study. Thanks again, by the way."
+
+"I e-mailed you," Brigid adds, and looks sheepish when you look surprised. "Once. I mean. You gave me some -- er -- writing advice? About, you know, f-fire magic?"
+
+Felixe's disinterested but polite smile turned into the genuine article. "Oh, it's you! Yeah, how's your book going?"
+
+Brigid was writing a book?
+
+Brigid tucks her hair behind her ears, subtly tugging at the strands as she does so. "Um, it's a work in progress, you know. Your advice helped, but it's... never so easy." She sighs and her shoulders slump.
+
+Felixe stands up, slings his bag over his shoulder, and looks like he's about to reach for Brigid, before chaning his mind and instead grips his bag's strap. "There's no one right way to do things. If my advice isn't cutting it, keep looking around and experimenting on your own. Just keep at it, and you'll get there, okay?"
+
+Brigid smiles half-heartedly. "Thanks." 
+
+She must be <i>really</i> into this book. You'll have to ask her about it later.
+
+Professor Osbourne clears his throat. "So none of you requires my assistance...?"
+
+You check your watch. Fuck. You need to leave ASAP if you want to get there in time on your skateboard.
+
+"Something the matter, Ms. Jones?" the professor inquires.
+
+* Admit you're running late
+* Say you're all good
+
+TODO: Either way, Felixe realizes you need to get somewhere quickly and offers you a ride.
+TODO: Remember to change "skateboard" to the ride variable
+
     -> END
